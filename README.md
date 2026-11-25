@@ -143,4 +143,20 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Madhesh425/leetcode-solution/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Madhesh425/leetcode-solution/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Madhesh425/leetcode-solution/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Madhesh425/leetcode-solution/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Madhesh425/leetcode-solution/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
