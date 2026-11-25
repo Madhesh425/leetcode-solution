@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/Madhesh425/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Madhesh425/leetcode-solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Madhesh425/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0633-sum-of-square-numbers](https://github.com/Madhesh425/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Madhesh425/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Madhesh425/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0633-sum-of-square-numbers](https://github.com/Madhesh425/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhesh425/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Madhesh425/leetcode-solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhesh425/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Madhesh425/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
 |  |
 | ------- |
