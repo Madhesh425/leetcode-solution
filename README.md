@@ -13,6 +13,7 @@
 | [0002-add-two-numbers](https://github.com/Madhesh425/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Madhesh425/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Madhesh425/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Madhesh425/leetcode-solution/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhesh425/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Madhesh425/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Madhesh425/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Madhesh425/leetcode-solution/tree/master/0066-plus-one) |
 | [0347-top-k-frequent-elements](https://github.com/Madhesh425/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
