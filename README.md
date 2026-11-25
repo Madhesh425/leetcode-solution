@@ -15,6 +15,7 @@
 | [0013-roman-to-integer](https://github.com/Madhesh425/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Madhesh425/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Madhesh425/leetcode-solution/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Madhesh425/leetcode-solution/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +134,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Madhesh425/leetcode-solution/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Madhesh425/leetcode-solution/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Madhesh425/leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
