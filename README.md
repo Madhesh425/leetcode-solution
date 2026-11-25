@@ -26,6 +26,7 @@
 | [0014-longest-common-prefix](https://github.com/Madhesh425/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhesh425/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Madhesh425/leetcode-solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Madhesh425/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0347-top-k-frequent-elements](https://github.com/Madhesh425/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Madhesh425/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Madhesh425/leetcode-solution/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
