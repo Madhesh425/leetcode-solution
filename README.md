@@ -37,6 +37,7 @@
 | [0198-house-robber](https://github.com/Madhesh425/leetcode-solution/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Madhesh425/leetcode-solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Madhesh425/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Madhesh425/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [0070-climbing-stairs](https://github.com/Madhesh425/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Madhesh425/leetcode-solution/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Madhesh425/leetcode-solution/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Madhesh425/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -185,8 +187,13 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Madhesh425/leetcode-solution/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Madhesh425/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Madhesh425/leetcode-solution/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Madhesh425/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
