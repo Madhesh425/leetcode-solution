@@ -34,6 +34,7 @@
 | [0027-remove-element](https://github.com/Madhesh425/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Madhesh425/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Madhesh425/leetcode-solution/tree/master/0066-plus-one) |
+| [0322-coin-change](https://github.com/Madhesh425/leetcode-solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Madhesh425/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Madhesh425/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Madhesh425/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Madhesh425/leetcode-solution/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Madhesh425/leetcode-solution/tree/master/0101-symmetric-tree) |
+| [0322-coin-change](https://github.com/Madhesh425/leetcode-solution/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,4 +179,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Madhesh425/leetcode-solution/tree/master/0011-container-with-most-water) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Madhesh425/leetcode-solution/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Madhesh425/leetcode-solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
