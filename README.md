@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Madhesh425/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Madhesh425/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Madhesh425/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Madhesh425/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Madhesh425/leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Madhesh425/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Madhesh425/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Madhesh425/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
 | ------- |
